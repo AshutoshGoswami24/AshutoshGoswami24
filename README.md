@@ -1,7 +1,6 @@
   <meta property="og:title" content="Ashutosh Goswami">
     <meta property="og:description" content="Welcome To My GitHub Page">
       <link rel="icon" href="[assets/images/profilelogo.png](https://founder.of.pandawep.in/assets/images/profilelogo.png)">
-    <meta property="og:image" content="https://founder.of.pandawep.in/assets/images/photo_2024-02-18_00-26-59.jpg">
 <h1 align="center">Hi 👋, I'm Ashutosh Goswami</h1>
 <h3 align="center">A B.ca Studant ..</h3>
 
