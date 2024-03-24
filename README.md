@@ -12,7 +12,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/AshutoshGoswami24](https://github.com/AshutoshGoswami24)
 
-- 📫 How to reach me **goswamiashu024@gmail.com**
+- 📫 How to reach me **Dev@PandaWep.in**
 
 - ⚡ Fun fact **I Am A Copy Paste Devloper**
 
