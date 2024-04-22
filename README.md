@@ -1,20 +1,20 @@
   <meta property="og:title" content="Ashutosh Goswami">
-    <meta property="og:description" content="Welcome To My GitHub Page">
-      <link rel="icon" href="[assets/images/profilelogo.png](https://founder.of.pandawep.in/assets/images/profilelogo.png)">
+    <meta property="og:description" content="">
+      <!--<link rel="icon" href="[assets/images/profilelogo.png](https://founder.of.pandawep.in/assets/images/profilelogo.png)">-->
 <h1 align="center">Hi 👋, I'm Ashutosh Goswami</h1>
 <h3 align="center">A B.ca Studant ..</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ashutoshgoswami24&label=Profile%20views&color=0e75b6&style=flat" alt="ashutoshgoswami24" /> </p>
 
-- 🔭 I’m currently working on [Filter Bot](https://t.me/PandaFilter_bot)
+- 🔭 I’m currently working on [Chat Bot](https://github.com/AshutoshGoswami24/Chat-Bot) [Auto-Rename-Bot](https://github.com/AshutoshGoswami24/Auto-Rename-Bot) [Rename Bot](https://github.com/AshutoshGoswami24/Rename-Bot)
 
 - 🌱 I’m currently learning **JS , Python , Pyrogram**
 
 - 👨‍💻 All of my projects are available at [https://github.com/AshutoshGoswami24](https://github.com/AshutoshGoswami24)
 
-- 📫 How to reach me **Dev@PandaWep.in**
+- 📫 How to reach me **botzashu@gmail.com**
 
-- ⚡ Fun fact **I Am A Copy Paste Devloper**
+- ⚡ Fun fact **Jᴜsᴛ A B.ᴄᴀ Sᴛᴜᴅᴀɴᴛ**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
