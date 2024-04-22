@@ -10,7 +10,7 @@
 
 - 🌱 I’m currently learning **JS , Python , Pyrogram**
 
-- 👨‍💻 All of my projects are available at [https://github.com/AshutoshGoswami24](https://github.com/AshutoshGoswami24)
+- 👨‍💻 All of my projects are available at [github.com/AshutoshGoswami24](https://github.com/AshutoshGoswami24?tab=repositories)
 
 - 📫 How to reach me **botzashu@gmail.com**
 
