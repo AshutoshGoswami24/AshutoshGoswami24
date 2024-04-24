@@ -1,5 +1,6 @@
   <meta property="og:title" content="Ashutosh Goswami">
-    <meta property="og:description" content="">
+    <meta property="og:description" content="A B.ca Studant ..">
+  <link rel="icon" href="Bin/Ashu.jpeg">
 <h1 align="center">Hi 👋, I'm Ashutosh Goswami</h1>
 <h3 align="center">A B.ca Studant ..</h3>
 
@@ -26,4 +27,5 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ashutoshgoswami24&show_icons=true&locale=en" alt="ashutoshgoswami24" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ashutoshgoswami24&" alt="ashutoshgoswami24" /></p>
+<!--<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ashutoshgoswami24&" alt="ashutoshgoswami24" /></p>
+-->
