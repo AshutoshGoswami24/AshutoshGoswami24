@@ -14,7 +14,7 @@
 - 📫 How to reach me **botzashu@gmail.com**
 
 - ⚡ Fun fact **Jᴜsᴛ A B.ᴄᴀ Sᴛᴜᴅᴀɴᴛ**
-<img src="https://graph.org/file/e7d53bdbbc4d5280e1491.mp4" alt="ashutoshgoswami24" />
+<img src="Bin/x.gif" alt="ashutoshgoswami24" />
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://instagram.com/ashutoshsanatani24" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="ashutoshsanatani24" height="30" width="40" /></a>
