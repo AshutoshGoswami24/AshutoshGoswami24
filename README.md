@@ -17,7 +17,7 @@
 - ⚡ Fun fact **Jᴜsᴛ A B.ᴄᴀ Sᴛᴜᴅᴀɴᴛ**
 <img src="Bin/x.gif" alt="ashutoshgoswami24" />
 <h3 align="left">Connect with me:</h3>
-  <p align="center">
+  <p align="left">
 <a href="https://t.me/AshutoshGoswami24" target="blank">  
   <img src="https://img.icons8.com/?size=100&id=k4jADXhS5U1t&format=png&color=000000" alt="Telegram" style="width:50px;"/></a>
 <a href="https://www.youtube.com/@AshutoshGoswami24" target="blank">   
