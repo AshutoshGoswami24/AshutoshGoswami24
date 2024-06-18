@@ -17,10 +17,14 @@
 - ⚡ Fun fact **Jᴜsᴛ A B.ᴄᴀ Sᴛᴜᴅᴀɴᴛ**
 <img src="Bin/x.gif" alt="ashutoshgoswami24" />
 <h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://instagram.com/ashutoshsanatani24" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="ashutoshsanatani24" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/pandawep" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="pandawep" height="30" width="40" /></a>
-</p>
+  <p align="center">
+<a href="https://t.me/AshutoshGoswami24" target="blank">  
+  <img src="https://img.icons8.com/?size=100&id=k4jADXhS5U1t&format=png&color=000000" alt="Telegram" style="width:50px;"/></a>
+<a href="https://www.youtube.com/@AshutoshGoswami24" target="blank">   
+  <img src="https://img.icons8.com/?size=100&id=qLVB1tIe9Ts9&format=png&color=000000" alt="Youtube" style="width:50px;"/></a>
+  </p/
+
+
 
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ashutoshgoswami24&show_icons=true&locale=en&layout=compact" alt="ashutoshgoswami24" /></p>
