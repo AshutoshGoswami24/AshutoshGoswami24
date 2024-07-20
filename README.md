@@ -16,8 +16,7 @@
 
 <img src="Bin/giphy.gif" alt="ashutoshgoswami24" 
   
-<h3 align="left">Connect with me:</h3>
-  <p align="left">
+<h3 align="left">Connect with me: </h3>
 <a href="https://t.me/AshutoshGoswami24"><img src="https://img.shields.io/badge/-Asʜᴜᴛᴏsʜ Gᴏsᴡᴀᴍɪ 𝟸𝟺 🇮🇳™%20%20-0077B5?style=flat&logo=Telegram&logoColor=white"/></a>
 <a href="https://t.me/AshuSupport"><img src="https://img.shields.io/badge/-Ashu Support%20%20-0077B5?style=flat&logo=Telegram&logoColor=white"/></a>
 
