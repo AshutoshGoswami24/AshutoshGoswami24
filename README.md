@@ -15,7 +15,7 @@
 - 📫 How to reach me **botzashu@gmail.com**
 
 - ⚡ Fun fact **Jᴜsᴛ A B.ᴄᴀ Sᴛᴜᴅᴀɴᴛ**
-<img src="Bin/x.gif" alt="ashutoshgoswami24" />
+<img src="Bin/giphy.gif" alt="ashutoshgoswami24" />
 <h3 align="left">Connect with me:</h3>
   <p align="left">
 <a href="https://t.me/AshutoshGoswami24" target="blank">  
