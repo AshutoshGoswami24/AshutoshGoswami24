@@ -6,7 +6,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ashutoshgoswami24&label=Profile%20views&color=0e75b6&style=flat" alt="ashutoshgoswami24" /> </p>
 
-- 🔭 I’m currently working on [Chat Bot](https://github.com/AshutoshGoswami24/Chat-Bot) [Auto-Rename-Bot](https://github.com/AshutoshGoswami24/Auto-Rename-Bot) [Rename Bot](https://github.com/AshutoshGoswami24/Rename-Bot) [text-leech-bot](https://github.com/AshutoshGoswami24/text-leech-bot)
+- 🔭 I’m currently working on **[Chat Bot](https://github.com/AshutoshGoswami24/Chat-Bot) [Auto-Rename-Bot](https://github.com/AshutoshGoswami24/Auto-Rename-Bot) [Rename Bot](https://github.com/AshutoshGoswami24/Rename-Bot) [text-leech-bot](https://github.com/AshutoshGoswami24/text-leech-bot)**
 
 - 🌱 I’m currently learning **JS , Python , Pyrogram**
 
