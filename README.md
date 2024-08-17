@@ -50,7 +50,7 @@
 <a href="https://t.me/AshutoshGoswami24"><img src="https://img.shields.io/badge/-Asʜᴜᴛᴏsʜ Gᴏsᴡᴀᴍɪ 𝟸𝟺 🇮🇳™%20%20-0077B5?style=flat&logo=Telegram&logoColor=white"/></a>
 <a href="https://t.me/AshuSupport"><img src="https://img.shields.io/badge/-Ashu Support%20%20-0077B5?style=flat&logo=Telegram&logoColor=white"/></a>
 
-<img src="https://raw.githubusercontent.com/Saki-Yoshida/Saki-Yoshida/output/snake.svg" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/AshutoshGoswami24/AshutoshGoswami24/output/snake.svg" alt="Snake animation" />
 
 ###
 
