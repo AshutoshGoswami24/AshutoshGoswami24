@@ -2,7 +2,7 @@
     <meta property="og:description" content="A B.ca Studant ..">
   <link rel="icon" href="Bin/Ashu.jpeg">
 <h1 align="center">Hi 👋, I'm Ashutosh Goswami</h1>
-<h3 align="center">A B.ca Studant ..</h3>
+<h3 align="center">A B.ca Student ..</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ashutoshgoswami24&label=Profile%20views&color=0e75b6&style=flat" alt="ashutoshgoswami24" /> </p>
 
